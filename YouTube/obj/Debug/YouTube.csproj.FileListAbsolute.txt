@@ -1,0 +1,163 @@
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\YouTube.exe.config
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\YouTube.exe
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\YouTube.pdb
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\obj\Debug\YouTube.csprojAssemblyReference.cache
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\obj\Debug\YouTube.Properties.Resources.resources
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\obj\Debug\YouTube.csproj.GenerateResource.cache
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\obj\Debug\YouTube.csproj.CoreCompileInputs.cache
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\obj\Debug\YouTube.exe
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\obj\Debug\YouTube.pdb
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\Newtonsoft.Json.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\Newtonsoft.Json.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\obj\Debug\YouTube.csproj.CopyComplete
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Net.Http.Extensions.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Net.Http.Primitives.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Reactive.Core.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Reactive.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Reactive.Interfaces.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Reactive.Linq.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.ValueTuple.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Net.Http.Extensions.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Net.Http.Primitives.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Reactive.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Reactive.Core.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Reactive.Interfaces.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Reactive.Linq.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.ValueTuple.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\obj\Debug\YouTube.csproj.App.config
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\obj\Debug\ytv.Form1.resources
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\obj\Debug\ytv.About.resources
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\obj\Debug\ytv.Info.resources
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\AngleSharp.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Buffers.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Memory.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Numerics.Vectors.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Text.Encodings.Web.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Text.Json.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\YoutubeExplode.dll
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\AngleSharp.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Buffers.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Memory.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Numerics.Vectors.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Text.Encodings.Web.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\System.Text.Json.xml
+D:\Работа\YouTube 20.04.2021\YouTube\YouTube\bin\Debug\YoutubeExplode.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\YouTube.exe.config
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\YouTube.exe
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\YouTube.pdb
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\AngleSharp.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Buffers.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Memory.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Reactive.Core.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Reactive.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Text.Json.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.ValueTuple.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\YoutubeExplode.dll
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\AngleSharp.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Buffers.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Memory.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Reactive.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Reactive.Core.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Text.Json.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\System.ValueTuple.xml
+C:\Users\Я\Desktop\YouTube\YouTube\bin\Debug\YoutubeExplode.xml
+C:\Users\Я\Desktop\YouTube\YouTube\obj\Debug\YouTube.csproj.App.config
+C:\Users\Я\Desktop\YouTube\YouTube\obj\Debug\YouTube.csprojAssemblyReference.cache
+C:\Users\Я\Desktop\YouTube\YouTube\obj\Debug\ytv.About.resources
+C:\Users\Я\Desktop\YouTube\YouTube\obj\Debug\ytv.Form1.resources
+C:\Users\Я\Desktop\YouTube\YouTube\obj\Debug\ytv.Info.resources
+C:\Users\Я\Desktop\YouTube\YouTube\obj\Debug\YouTube.Properties.Resources.resources
+C:\Users\Я\Desktop\YouTube\YouTube\obj\Debug\YouTube.csproj.GenerateResource.cache
+C:\Users\Я\Desktop\YouTube\YouTube\obj\Debug\YouTube.csproj.CopyComplete
+C:\Users\Я\Desktop\YouTube\YouTube\obj\Debug\YouTube.exe
+C:\Users\Я\Desktop\YouTube\YouTube\obj\Debug\YouTube.pdb
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\YouTube.exe.config
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\YouTube.exe
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\YouTube.pdb
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\AngleSharp.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Buffers.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Memory.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Reactive.Core.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Reactive.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Text.Json.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.ValueTuple.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\YoutubeExplode.dll
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\AngleSharp.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Buffers.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Memory.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Reactive.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Reactive.Core.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Text.Json.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\System.ValueTuple.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\bin\Debug\YoutubeExplode.xml
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\obj\Debug\YouTube.csproj.App.config
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\obj\Debug\YouTube.csprojAssemblyReference.cache
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\obj\Debug\ytv.About.resources
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\obj\Debug\ytv.Form1.resources
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\obj\Debug\ytv.Info.resources
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\obj\Debug\YouTube.Properties.Resources.resources
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\obj\Debug\YouTube.csproj.GenerateResource.cache
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\obj\Debug\YouTube.csproj.CopyComplete
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\obj\Debug\YouTube.exe
+C:\Users\Я\Desktop\курсовая\YouTube\YouTube\obj\Debug\YouTube.pdb
